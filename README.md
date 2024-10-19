@@ -1,2 +1,3 @@
 # Data-Analytics
-I am sharing my journey of Data-Analytics. which topics are required to become Data-Analytic. I am uploading all the topics with their files and all the projects I have made in this journey.
+This repository showcases my data analytics projects, including data visualization, statistical analysis, and machine learning applications. The projects demonstrate my skills in extracting insights from complex data sets and presenting findings in a clear, concise manner.
+
